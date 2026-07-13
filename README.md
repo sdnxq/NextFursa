@@ -11,4 +11,4 @@ Many students miss out on vital development programs simply due to a lack of a c
 ## 🌟 Core Features Designed
 * 🏛️ **Centralized Dashboard:** A curated feed of verified local extracurricular and volunteer opportunities.
 * 🔍 **Targeted Filtering:** Sorting features based on interests and application deadlines.
-* 🎓 **Student Resource Hub:** A space to help students find training and build their academic profiles.# NextFursa
+* 🎓 **Student Resource Hub:** A space to help students find training and build their academic profiles.
